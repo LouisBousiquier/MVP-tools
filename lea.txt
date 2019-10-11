@@ -5,3 +5,4 @@ jhhjlhjj
 PROUT 
 canard
 doggo
+le test continu pour un maximum de fun dans ce cours sur git.
